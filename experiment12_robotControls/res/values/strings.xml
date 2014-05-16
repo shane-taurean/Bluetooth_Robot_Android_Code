@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bluetooth Robot</string>
+    <string name="action_settings">Settings</string>
+    <string name="bt_device_name">Bluetooth</string>
+    <string name="pick_remote_device">Connect to Remote Device</string>
+    <string name="type_your_message_here">Type your message here</string>
+    <string name="send">Send</string>
+    <string name="message_appears_here">Messages appear here</string>
+    <string name="choose_device">Choose Remote Device</string>
+    <string name="status">Status</string>
+
+</resources>
